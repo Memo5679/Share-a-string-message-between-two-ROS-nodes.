@@ -34,7 +34,7 @@
 
     * catkin_make (it will identify the package)
     
-# Create a Publisher and Subscriber using Python
+# Create a publisher and subscriber using Python
 1- Go to package Memo_package and create new folder called scripts 
 
     * cd /scripts
