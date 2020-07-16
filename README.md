@@ -1,4 +1,4 @@
-# Share-a-String-Message-between-Two-ROS-Nodes
+# Share a string message between two ROS nodes
 
 # Create a ROS Workspace
 1- Create workspace folder called Memo_ws
